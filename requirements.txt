@@ -1,0 +1,15 @@
+aiohttp
+aiosignal
+altgraph
+async-timeout
+attrs
+cffi
+discord.py[voice]
+frozenlist
+idna
+multidict
+packaging
+pycparser
+PyNaCl
+python-dotenv
+yarl
